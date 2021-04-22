@@ -1,0 +1,137 @@
+
+html{
+    font-family: "Lato";
+}
+
+p{
+    color: #444
+}
+
+/*Bannière*/
+
+.site-header {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    max-width: 50em;
+    min-width: 10em;
+}
+
+.burger{
+    max-width: 1.25em;
+}
+
+/*Button*/
+
+.site-start {
+    padding-top: 1em;
+    text-align: center;
+}
+
+.site-button {
+    border-radius: 5em;
+    border: none;
+    padding: 1em 1.75em;
+    background: #0aa8a7;
+    color: white;
+}
+
+.site-firts {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    width: 100%
+}
+
+/*rectangle*/
+
+.rectangle {
+    padding-top: 2em;
+    text-align: center;
+    background: #edf6f5;
+    padding-bottom: 2em;
+}
+
+.site-rectangle {
+    background: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.rectangle-2 {
+    padding-top: 2em;
+    background: #edf6f5;
+}
+
+.site-icone {
+    width: 35px;
+    text-align: center;
+    padding-top: 2em;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+.bleu {
+    color: #0aa8a7;
+    padding-bottom: 1em;
+}
+
+.gris {
+    color: #444;
+}
+
+.text {
+    padding-bottom: 1em;
+}
+
+/*carre*/
+
+.carre {
+    padding-top: 2em;
+    text-align: center;
+    background: #edf6f5;
+    padding-bottom: 2em;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+
+/*footer*/
+
+.footer {
+    padding-top: 2em;
+    background: #edf6f5;
+    padding-bottom: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 20px;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.logo-4 {
+    padding-top: 2em;
+}
+
+.icone-1 {
+    max-width: 2em;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+.icone-2 {
+    max-width: 2em;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+.icone-3 {
+    max-width: 2em;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
+.icone-4 {
+    max-width: 2em;
+    filter: invert(47%) sepia(68%) saturate(2413%) hue-rotate(147deg) brightness(94%) contrast(92%);
+}
+
